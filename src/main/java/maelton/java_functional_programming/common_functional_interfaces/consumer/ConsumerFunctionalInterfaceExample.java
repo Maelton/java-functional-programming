@@ -1,4 +1,4 @@
-package maelton.functional_programming_java.common_functional_interfaces.consumer;
+package maelton.java_functional_programming.common_functional_interfaces.consumer;
 
 import java.util.ArrayList;
 import java.util.List;

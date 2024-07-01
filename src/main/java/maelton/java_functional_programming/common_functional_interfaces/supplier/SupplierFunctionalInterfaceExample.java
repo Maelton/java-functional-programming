@@ -1,4 +1,4 @@
-package maelton.functional_programming_java.common_functional_interfaces.supplier;
+package maelton.java_functional_programming.common_functional_interfaces.supplier;
 
 import java.util.function.Supplier;
 

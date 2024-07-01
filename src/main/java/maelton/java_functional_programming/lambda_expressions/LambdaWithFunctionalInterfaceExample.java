@@ -1,4 +1,4 @@
-package maelton.functional_programming_java.lambda_expressions;
+package maelton.java_functional_programming.lambda_expressions;
 
 @FunctionalInterface
 interface A {

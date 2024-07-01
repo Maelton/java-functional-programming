@@ -1,4 +1,4 @@
-package maelton.functional_programming_java.inner_classes;
+package maelton.java_functional_programming.inner_classes;
 
 class OuterClass {
     private int attr = 0;

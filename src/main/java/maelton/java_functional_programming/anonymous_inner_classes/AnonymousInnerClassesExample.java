@@ -1,4 +1,4 @@
-package maelton.functional_programming_java.anonymous_inner_classes;
+package maelton.java_functional_programming.anonymous_inner_classes;
 
 class A {
     public void show() {
